@@ -1,0 +1,3 @@
+What I did in this chapter:
+
+	In this chapter, I began establishing the foundational structure of my app, carefully organizing the project to ensure a seamless development process. I also designed the template for the home page, focusing on creating a visually appealing and user-friendly interface. Additionally, I started implementing the core functionality of the to-do app by developing a list layout where tasks can be displayed and introducing checkboxes to allow users to mark tasks as completed. These initial steps lay the groundwork for the app's functionality and user interaction.
